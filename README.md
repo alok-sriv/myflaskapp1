@@ -1,6 +1,8 @@
 # myflaskapp1
 Flask App to Create an Application with Authentication and Add/Edit/Delete articles option.
 
+![image](https://user-images.githubusercontent.com/70486168/123010985-9f378f00-d38d-11eb-8f00-20e7d57669f2.png)
+
 # Installation
 1. Install Python
 2. python -m venv env 
