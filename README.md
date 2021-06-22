@@ -3,6 +3,11 @@ Flask App to Create an Application with Authentication and Add/Edit/Delete artic
 
 ![image](https://user-images.githubusercontent.com/70486168/123010985-9f378f00-d38d-11eb-8f00-20e7d57669f2.png)
 
+![image](https://user-images.githubusercontent.com/70486168/123011042-b9716d00-d38d-11eb-869c-99465881eb0e.png)
+
+![image](https://user-images.githubusercontent.com/70486168/123011064-c2fad500-d38d-11eb-8b78-750737488526.png)
+
+
 # Installation
 1. Install Python
 2. python -m venv env 
