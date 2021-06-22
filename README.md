@@ -31,7 +31,7 @@ Command may change based on OS. I did this on Windows.
 python app.py
 
 # Reference
-Bootstrap https://www.bootstrapcdn.com/
-CKEDITOR : https://ckeditor.com/ckeditor-5/download/
+1. Bootstrap https://www.bootstrapcdn.com/
+2. CKEDITOR : https://ckeditor.com/ckeditor-5/download/
 
 
