@@ -10,6 +10,11 @@ Flask App to Create an Application with Authentication and Add/Edit/Delete artic
 
 Command may change based on OS. I did this on Windows.
 
+# Utilities Required
+1. CMD
+2. VS Code Editor (or any of your choice)
+3. XAMPP for mySQL database
+
 # Running the app
 python app.py
 
