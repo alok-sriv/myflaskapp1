@@ -10,10 +10,11 @@ Flask App to Create an Application with Authentication and Add/Edit/Delete artic
 
 # Installation
 1. Install Python
-2. python -m venv env 
-3. Activate your virtual environment Example: env\Scripts\activate [Windows]
-4. python -m pip install --upgrade pip
-5. python -m pip install -r /path/to/requirements.txt
+2. Create Virtual Environment : python -m venv env 
+3. Activate your virtual environment : env\Scripts\activate [Windows]
+4. Update PIP in virtual environment : python -m pip install --upgrade pip
+5. Install Required Dependicies: python -m pip install -r /path/to/requirements.txt
+# Note : Refer https://code.visualstudio.com/docs/python/tutorial-flask to setup your machine.
 
 Command may change based on OS. I did this on Windows.
 
